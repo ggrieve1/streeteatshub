@@ -1,0 +1,418 @@
+[
+  {
+    "truckName": "Wrap and Roll",
+    "days": [
+      {
+        "dayOfMonth": 1,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 2,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 3,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 4,
+        "jobs": [
+          {
+            "jobTitle": "wr",
+            "startTime": "11;00AM",
+            "endTime": "12:00PM",
+            "address": "1701 KIRBY DR BOWLING GREEN KY 42104",
+            "businessName": "PE",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 5,
+        "jobs": [
+          {
+            "jobTitle": "RJ Corman",
+            "startTime": "10:00AM",
+            "endTime": "1:00PM",
+            "address": "400 PINE GROVE CHURCH RD BOWLING GREEN KY 42101",
+            "businessName": "RJ Corman",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 6,
+        "jobs": [
+          {
+            "jobTitle": "RJ Corman",
+            "startTime": "10:00AM",
+            "endTime": "1:00PM",
+            "address": "4107 Hardison Rd, Woodburn, KY 42170",
+            "businessName": "RJ Corman",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 7,
+        "jobs": [
+          {
+            "jobTitle": "RJ Corman",
+            "startTime": "10:00AM",
+            "endTime": "1:00PM",
+            "address": "4107 Hardison Rd, Woodburn, KY 42170",
+            "businessName": "RJ Corman",
+            "truckColor": "blue"
+          },
+          {
+            "jobTitle": "RJ Corman",
+            "startTime": "10:00AM",
+            "endTime": "1:00PM",
+            "address": "5690 LOUISVILLE RD LOT 128 BOWLING GREEN KY 42101",
+            "businessName": "RJ Corman",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 8,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 9,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 10,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 11,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 12,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 13,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 14,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 15,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 16,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 17,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 18,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 19,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 20,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 21,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 22,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 23,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 24,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 25,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 26,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 27,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 28,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 29,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 30,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      },
+      {
+        "dayOfMonth": 31,
+        "jobs": [
+          {
+            "jobTitle": "",
+            "startTime": "",
+            "endTime": "",
+            "address": "",
+            "businessName": "",
+            "truckColor": "blue"
+          }
+        ]
+      }
+    ]
+  }
+]
