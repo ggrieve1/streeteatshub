@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Truck 2 Food Truck</title>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css' rel='stylesheet' />
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../css/styles.css">
+  <link
+  href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.css"
+  rel="stylesheet"
+/>
+
+<script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.min.js"></script>
+
+</head>
+<body>
+<nav class="navbar navbar-dark bg-dark">
+    <div class="container d-flex justify-content-between align-items-center">
+        <a class="navbar-brand" href="#"><span class="gradient-background">Truck 2</span></a>
+        <div class="d-flex justify-content-center">
+            <a class="btn btn-light" href="index.html">Main Page</a>
+            <a class="btn btn-light ml-2" href="all-food-trucks.html">All Food Trucks</a>
+        </div>
+    </div>
+</nav>
+
+
+
+  <div class="container mt-4">
+    <h2>Truck 2</h2>
+    <p>Truck 2</p>
+    
+    <div id="map" class="container mt-4"></div>
+
+    <div class="row mt-4 card-container">
+      <!-- Day cards for each day of the week will be populated by JavaScript -->
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <p>&copy; 2024 Street Eats Hub. All rights reserved.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js'></script>
+  <script type="module" src="../scripts/wrap-and-roll-script.js"></script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All Food Trucks</title>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css' rel='stylesheet' />
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+  <nav class="navbar navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="#">Food Trucks</a>
+      <a class="btn btn-light" href="index.html">Back to Main Page</a> <!-- Link back to the main page -->
+    </div>
+  </nav>
+
+  <div class="container mt-4">
+    <h2>All Food Trucks</h2>
+    <p>Explore all the food trucks in your area.</p>
+    
+    <div class="row mt-4">
+      <!-- Wrap and Roll Food Truck Card -->
+      <div class="col-md-4 mb-4">
+        <div class="card clickable border-0" onclick="window.location.href='wrap-and-roll.html'">
+          <div class="card-body text-center">
+            <h5 class="card-title">Wrap and Roll</h5>
+            <img src="../images/W&RLogo.jpeg" class="img-fluid mb-3 logo-img" alt="Wrap and Roll Logo"> <!-- Placeholder for logo -->
+          </div>
+        </div>
+      </div>
+      <!-- Add similar card structures for other food trucks -->
+      <div class="col-md-4 mb-4">
+        <div class="card clickable border-0" onclick="window.location.href='truck-2.html'">
+          <div class="card-body text-center">
+            <h5 class="card-title">truck 2</h5>
+            <img src="wrap-and-roll-logo.png" class="img-fluid mb-3 logo-img" alt="Wrap and Roll Logo"> <!-- Placeholder for logo -->
+          </div>
+        </div>
+      </div>
+      <!-- Add similar card structures for other food trucks -->
+      <div class="col-md-4 mb-4">
+        <!-- Placeholder for the third food truck card -->
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <p>&copy; 2024 Street Eats Hub. All rights reserved.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js'></script>
+  <script type="module" src="all-food-trucks-script.js"></script>
+</body>
+</html>

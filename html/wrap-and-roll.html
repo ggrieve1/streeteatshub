@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wrap and Roll Food Truck</title>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css' rel='stylesheet' />
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../css/styles.css">
+  <link
+  href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.css"
+  rel="stylesheet"
+/>
+
+<script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.min.js"></script>
+<script>
+  // JavaScript function to toggle the CSS class of the image
+  function toggleEnlarge() {
+    var image = document.getElementById('menuImage');
+    image.classList.toggle('enlarged');
+  }
+</script>
+</head>
+<body>
+<nav class="navbar navbar-dark bg-dark">
+    <div class="container d-flex justify-content-between align-items-center">
+        <a class="navbar-brand" href="#"><span class="gradient-background">Wrap and Roll</span></a>
+        <div class="d-flex justify-content-center">
+            <a class="btn btn-light" href="index.html">Main Page</a>
+            <a class="btn btn-light ml-2" href="all-food-trucks.html">All Food Trucks</a>
+        </div>
+    </div>
+</nav>
+
+
+
+  <div class="container mt-4">
+    <h2>Wrap and Roll</h2>
+    <p>Wrap and Roll offers a variety of delicious wraps made with fresh, locally-sourced ingredients. Whether you're in the mood for a classic chicken Caesar wrap or something more adventurous like a spicy Thai beef wrap, we've got you covered!</p>
+    
+    <div id="map" class="container mt-4"></div>
+
+    <div class="row mt-4 card-container">
+      <!-- Day cards for each day of the week will be populated by JavaScript -->
+    </div>
+  </div>
+x
+  <div class="row mt-4 menu">
+    <div class="col-md-12 text-center">
+      <img id="menuImage" src="../images/W&RMenu.PNG" alt="Menu" class="menu img-fluid" onclick="toggleEnlarge()">
+      <p><span class="click-to-enlarge">Click To Enlarge</span></p>
+    </div>
+</div>
+  <footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <p>&copy; 2024 Street Eats Hub. All rights reserved.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js'></script>
+  <script type="module" src="../scripts/wrap-and-roll-script.js"></script>
+</body>
+</html>
