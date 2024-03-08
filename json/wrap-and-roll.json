@@ -222,10 +222,10 @@
         "dayOfMonth": 17,
         "jobs": [
           {
-            "jobTitle": "",
-            "startTime": "",
-            "endTime": "",
-            "address": "",
+            "jobTitle": "Cliffs of Moher Irish Pub",
+            "startTime": "9:00PM",
+            "endTime": "1:00AM",
+            "address": "410 E Main Ave, Bowling Green, KY 42101",
             "businessName": "",
             "truckColor": "blue"
           }
@@ -261,10 +261,10 @@
         "dayOfMonth": 20,
         "jobs": [
           {
-            "jobTitle": "",
-            "startTime": "",
-            "endTime": "",
-            "address": "",
+            "jobTitle": "Bel Aire Apartments",
+            "startTime": "4:00PM",
+            "endTime": "7:00PM",
+            "address": "2600 Chandler Dr, Bowling Green, KY 42104",
             "businessName": "",
             "truckColor": "blue"
           }
